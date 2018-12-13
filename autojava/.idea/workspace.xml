@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f710589-c788-4cdb-b6e6-96e560aa2aed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/pageobjects/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/pageobjects/GoogleTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/pageobjects/pages/GoogleMainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/pageobjects/pages/GoogleResultsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/wordpresspageobjects/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/wordpresspageobjects/WordPressTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/wordpresspageobjects/pages/WpMainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/wordpresspageobjects/pages/WpNotePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/wordpresspageobjects/WordPressTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/wordpresspageobjects/WordPressTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/wordpresspageobjects/pages/WpMainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/wordpresspageobjects/pages/WpMainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/wordpresspageobjects/pages/WpNotePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/wordpresspageobjects/pages/WpNotePage.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,6 +32,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/basic/WordpressTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="56" column="54" selection-start-line="56" selection-start-column="54" selection-end-line="56" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/selenium/wordpresspageobjects/BaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -51,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/selenium/wordpresspageobjects/WordPressTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="27" column="58" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
+            <state relative-caret-position="459">
+              <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#955#956#0" expanded="true" />
@@ -67,14 +70,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/wordpresspageobjects/pages/WpMainPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/selenium/wordpresspageobjects/pages/WpNotePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="254">
+              <caret line="50" column="75" lean-forward="true" selection-start-line="50" selection-start-column="75" selection-end-line="50" selection-end-column="75" />
               <folding>
-                <element signature="e#554#555#0" expanded="true" />
-                <element signature="e#582#583#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -111,8 +125,8 @@
         <option value="$PROJECT_DIR$/src/test/java/selenium/wordpresspageobjects/pages/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/wordpresspageobjects/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/wordpresspageobjects/pages/WpMainPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/selenium/wordpresspageobjects/WordPressTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/wordpresspageobjects/pages/WpNotePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium/wordpresspageobjects/WordPressTests.java" />
       </list>
     </option>
   </component>
@@ -208,6 +222,16 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="pageobjects" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autojava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autojava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
               <item name="wordpresspageobjects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -228,7 +252,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544699599876" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544710045931" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
@@ -257,14 +281,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GoogleTests">
-    <configuration name="LoopHelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LoopHelloWorld" />
-      <module name="autojava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.WordPressTests">
     <configuration name="GoogleTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="autojava" />
       <extension name="coverage">
@@ -289,6 +306,20 @@
       </extension>
       <option name="PACKAGE_NAME" value="selenium.basic" />
       <option name="MAIN_CLASS_NAME" value="selenium.basic.SeleniumTestsBlog" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordPressTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="autojava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selenium.wordpresspageobjects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selenium.wordpresspageobjects" />
+      <option name="MAIN_CLASS_NAME" value="selenium.wordpresspageobjects.WordPressTests" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -325,11 +356,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.WordPressTests" />
         <item itemvalue="JUnit.GoogleTests" />
         <item itemvalue="JUnit.WordpressTests" />
         <item itemvalue="JUnit.WordpressTests.addCommentOnBenedyktPage" />
         <item itemvalue="JUnit.SeleniumTestsBlog" />
-        <item itemvalue="Application.LoopHelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -347,59 +378,59 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="WordpressTests - 2018.12.12 at 14h 45m 36s.xml">
-      <configuration name="WordpressTests" configurationId="JUnit" />
+    <history-entry file="WordPressTests - 2018.12.13 at 14h 17m 40s.xml">
+      <configuration name="WordPressTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordpressTests - 2018.12.12 at 14h 46m 49s.xml">
-      <configuration name="WordpressTests" configurationId="JUnit" />
+    <history-entry file="WordPressTests - 2018.12.13 at 14h 21m 59s.xml">
+      <configuration name="WordPressTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordpressTests - 2018.12.12 at 14h 48m 17s.xml">
-      <configuration name="WordpressTests" configurationId="JUnit" />
+    <history-entry file="WordPressTests - 2018.12.13 at 14h 22m 36s.xml">
+      <configuration name="WordPressTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordpressTests - 2018.12.12 at 14h 52m 05s.xml">
-      <configuration name="WordpressTests" configurationId="JUnit" />
+    <history-entry file="WordPressTests - 2018.12.13 at 14h 24m 19s.xml">
+      <configuration name="WordPressTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordpressTests - 2018.12.12 at 14h 54m 00s.xml">
-      <configuration name="WordpressTests" configurationId="JUnit" />
+    <history-entry file="WordPressTests - 2018.12.13 at 14h 28m 38s.xml">
+      <configuration name="WordPressTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordpressTests - 2018.12.12 at 14h 57m 11s.xml">
-      <configuration name="WordpressTests" configurationId="JUnit" />
+    <history-entry file="WordPressTests - 2018.12.13 at 14h 28m 52s.xml">
+      <configuration name="WordPressTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordpressTests - 2018.12.12 at 15h 41m 24s.xml">
-      <configuration name="WordpressTests" configurationId="JUnit" />
+    <history-entry file="WordPressTests - 2018.12.13 at 14h 41m 23s.xml">
+      <configuration name="WordPressTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordpressTests - 2018.12.12 at 15h 44m 34s.xml">
-      <configuration name="WordpressTests" configurationId="JUnit" />
+    <history-entry file="WordPressTests - 2018.12.13 at 14h 41m 35s.xml">
+      <configuration name="WordPressTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordpressTests - 2018.12.12 at 15h 45m 20s.xml">
-      <configuration name="WordpressTests" configurationId="JUnit" />
+    <history-entry file="WordPressTests - 2018.12.13 at 14h 49m 30s.xml">
+      <configuration name="WordPressTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoogleTests - 2018.12.12 at 17h 56m 03s.xml">
-      <configuration name="GoogleTests" configurationId="JUnit" />
+    <history-entry file="WordPressTests - 2018.12.13 at 14h 49m 54s.xml">
+      <configuration name="WordPressTests" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7894737" visible="true" weight="0.22087745" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7882136" visible="true" weight="0.33585477" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info active="true" id="Favorites" order="6" sideWeight="0.21052632" side_tool="true" visible="true" weight="0.22087745" />
+      <window_info id="Favorites" order="6" sideWeight="0.21178637" side_tool="true" weight="0.33812407" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33551556" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.31914893" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27168575" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.18330605" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.24222586" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3289689" />
-      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.06710311" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.09819967" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -410,16 +441,16 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23600605" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7882136" visible="true" weight="0.31694403" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.21178637" side_tool="true" weight="0.33812407" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32569557" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.111292966" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.31914893" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -427,7 +458,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.24222586" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3289689" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.45662847" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -458,13 +489,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="91">
           <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -504,26 +528,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/pageobjects/pages/GoogleResultsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/pageobjects/pages/GoogleMainPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/selenium/pageobjects/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -531,13 +535,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/basic/WordpressTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="60" column="110" selection-start-line="60" selection-start-column="110" selection-end-line="60" selection-end-column="110" />
         </state>
       </provider>
     </entry>
@@ -558,24 +555,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/pageobjects/GoogleTests.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/pageobjects/pages/GoogleResultsPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="238">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/wordpresspageobjects/pages/WpMainPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/pageobjects/pages/GoogleMainPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding>
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="85">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/basic/WordpressTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="56" column="54" selection-start-line="56" selection-start-column="54" selection-end-line="56" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -591,27 +601,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/wordpresspageobjects/WordPressTests.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/pageobjects/GoogleTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="27" column="58" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#955#956#0" expanded="true" />
-            <element signature="e#1003#1004#0" expanded="true" />
-            <element signature="e#867#868#0" expanded="true" />
-            <element signature="e#894#895#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/wordpresspageobjects/pages/WpMainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/selenium/wordpresspageobjects/pages/WpNotePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="254">
+          <caret line="50" column="75" lean-forward="true" selection-start-line="50" selection-start-column="75" selection-end-line="50" selection-end-column="75" />
           <folding>
-            <element signature="e#554#555#0" expanded="true" />
-            <element signature="e#582#583#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/wordpresspageobjects/WordPressTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#955#956#0" expanded="true" />
+            <element signature="e#1003#1004#0" expanded="true" />
+            <element signature="e#867#868#0" expanded="true" />
+            <element signature="e#894#895#0" expanded="true" />
           </folding>
         </state>
       </provider>

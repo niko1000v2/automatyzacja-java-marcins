@@ -13,7 +13,7 @@ public class WordPressTests extends BaseTest {
     public void canAddCommentToFirstNote() {
 
         String comment = generateRandomText();
-        String author = generateRandomText();
+        String author =  generateRandomText();
         String email = generateRandomEmail();
         //open wordpressMainPage
         WpMainPage mainPage = new WpMainPage(driver);
@@ -22,10 +22,10 @@ public class WordPressTests extends BaseTest {
         WpNotePage latestNote = mainPage.openLatestNote();
 
         //add comment
-        WpNotePage latestNoteWithComment = latestNote.addComment(comment, author, email):
+        WpNotePage latestNoteWithComment = latestNote.addComment(comment, author, email);
 
         //check that comment is added
-        Assertions.assertTrue(latestNoteWithComment.commentExists(comment, author));
+        Assertions.assertTrue(latestNoteWithComment.commentExists(comment, author), "Added comment exists");
 
     }
 
